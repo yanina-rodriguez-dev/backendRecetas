@@ -24,16 +24,24 @@ Para probar el backend de forma local, sigue estos pasos:
 
 1. Clona el repositorio en tu máquina local utilizando el siguiente comando:
 
-```bash
+
 git clone https://github.com/tu_usuario/delicias-culinarias-backend.git
 
-- Navega al directorio del proyecto:
+
+2. Navega al directorio del proyecto:
+
 cd delicias-culinarias-backend
-- Instala las dependencias:
+
+3. Instala las dependencias:
+
 npm install
-- Configura las variables de entorno:
+ 
+4. Configura las variables de entorno:
+
 Crea un archivo .env en el directorio raíz del proyecto y establece las siguientes variables de entorno:
-- Inicia el servidor:
+
+5. Inicia el servidor:
+
 npm start
 
 
